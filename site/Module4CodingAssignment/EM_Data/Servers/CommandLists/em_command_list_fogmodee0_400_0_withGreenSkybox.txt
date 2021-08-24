@@ -1,0 +1,2 @@
+/fogmodee 0 300 0
+/skybox https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png

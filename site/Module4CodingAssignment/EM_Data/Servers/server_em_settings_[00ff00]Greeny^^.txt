@@ -1,0 +1,9 @@
+Server -/- EU
+Keyword -/- EM private
+Name -/- GreenExperience
+Max players -/- 13
+Max time -/- 999999
+Map -/- Custom
+Difficulty -/- abnormal
+Daytime -/- day
+CommandList -/- GreenExperience

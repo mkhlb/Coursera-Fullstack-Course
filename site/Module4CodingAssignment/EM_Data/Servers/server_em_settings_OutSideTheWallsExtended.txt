@@ -1,0 +1,9 @@
+Server -/- EU
+Keyword -/- EM private
+Name -/- [00ff00]OutSideTheWalls
+Max players -/- 13
+Max time -/- 999999
+Map -/- Outside The Walls
+Difficulty -/- abnormal
+Daytime -/- day
+CommandList -/- OutSideTheWallsExtended

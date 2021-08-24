@@ -1,0 +1,41 @@
+///fogmodee 0 300 0 This line wont be performed because there is "///" at the beginning of the line!
+/loadtitansettings GET10
+/loadcustomlogic testLogic
+///skybox https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png
+WAIT 1
+/// WAIT [(float)seconds]
+/restart
+WAIT 1
+/emcustommap CapTerr CapTerr 0 5000 0 0 0 0 0 0
+WAIT 1
+spawnme
+WAIT 1
+/reviveall
+WAIT 0.5
+/tpto 1 5000 5000 150
+WAIT 0.5
+/comehereall
+
+moveobject PVPchkPt2 5928 2820 -267 0 0 0 0
+moveobject PVPchkPt3 5828 2820 -267 0 0 0 0
+moveobject PVPchkPt4 5728 2820 -267 0 0 0 0
+moveobject PVPchkPt5 5628 2820 -267 0 0 0 0
+moveobject PVPchkPt6 5528 2820 -267 0 0 0 0
+moveobject PVPchkPt7 5428 2820 -267 0 0 0 0
+moveobject PVPchkPt8 5328 2820 -267 0 0 0 0
+moveobject PVPchkPtH 5228 2820 -267 0 0 0 0
+moveobject PVPchkPtT 4928 2820 -267 0 0 0 0
+destroyobjects gameobjectOutSide TREE TREES
+settscore 1000
+sethscore 1000
+
+
+/addgreenline Here you go! ^^
+/addline you can write smth in here...
+/addwarningline like this
+
+/say
+/addwarningline and this is definately the way how you can use custom logic ^^
+
+WAIT 10
+/comehereall

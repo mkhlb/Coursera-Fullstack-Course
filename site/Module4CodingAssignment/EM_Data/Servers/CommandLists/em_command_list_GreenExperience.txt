@@ -1,0 +1,16 @@
+/fogmodee 0 300 0
+/setlightcolor 0
+///setlightcolor [0-10] ... smth like this, dont remember exactly.
+/loadtitansettings GET10
+/loadtitanskin GreenTItans
+/loadlevelcustomskin GreenSkybox
+/loadmiscsettings NoRespawn
+/loadrccustomscript 1kIsle
+/loadcustomlogic testLogic
+WAIT 1
+/skybox https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png https://i.imgur.com/S6Fjqxh.png
+WAIT 5
+/restart
+/setlightcolor WrongCode
+/addwarningline wrong command has been captured^^
+

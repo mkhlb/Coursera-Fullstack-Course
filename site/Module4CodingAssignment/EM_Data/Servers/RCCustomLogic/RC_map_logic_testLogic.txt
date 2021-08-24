@@ -1,0 +1,11 @@
+OnChatInput("input")
+{
+
+If(String.Equals(VariableString("input"),"/say"))
+{
+
+Game.PrintMessage("<color=#00ff00>Tic</color>:<size=1>__</size>Text<size=1>__</size>written<size=1>__</size>with<size=1>__</size>custom<size=1>__</size>logic!");
+
+}
+
+}
